@@ -1,10 +1,11 @@
 🧠 MNIST Classifier: Deep Learning Project
 
-COMPANY: Personal / Portfolio Project
-NAME: Yasir Siraj Mondal
-DOMAIN: Data Science / Deep Learning
-DURATION: N/A (Self-Project)
-MENTOR: N/A
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+*NAME*: Yasir Siraj Mondal
+*DOMAIN*: Data Science
+*DURATION*: 12 weeks
+*MENTOR*: Neela Santhosh Kumar
+
 
 
 📘 Description
